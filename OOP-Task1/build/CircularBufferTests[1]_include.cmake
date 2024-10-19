@@ -1,0 +1,5 @@
+if(EXISTS "/home/rina/OOP-Task1/build/CircularBufferTests[1]_tests.cmake")
+  include("/home/rina/OOP-Task1/build/CircularBufferTests[1]_tests.cmake")
+else()
+  add_test(CircularBufferTests_NOT_BUILT CircularBufferTests_NOT_BUILT)
+endif()

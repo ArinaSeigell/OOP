@@ -1,0 +1,3 @@
+/home/rina/Task0-b/build/CMakeFiles/WordFrequencyCounter.dir
+/home/rina/Task0-b/build/CMakeFiles/edit_cache.dir
+/home/rina/Task0-b/build/CMakeFiles/rebuild_cache.dir
