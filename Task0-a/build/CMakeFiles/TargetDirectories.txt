@@ -1,0 +1,5 @@
+/home/psychic-octo-potato/Task0-a/build/CMakeFiles/Task0_objects.dir
+/home/psychic-octo-potato/Task0-a/build/CMakeFiles/Task0.dir
+/home/psychic-octo-potato/Task0-a/build/CMakeFiles/ShowObjectFiles.dir
+/home/psychic-octo-potato/Task0-a/build/CMakeFiles/edit_cache.dir
+/home/psychic-octo-potato/Task0-a/build/CMakeFiles/rebuild_cache.dir

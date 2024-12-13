@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/WordFrequencyCounter.dir/main.cpp.o -o WordFrequencyCounter 

@@ -1,4 +1,5 @@
 #include <iostream>
+#include <iomanip>
 #include <fstream>
 #include <sstream>
 #include <string>
@@ -59,10 +60,11 @@ int main(int argc, char* argv[]){
 
   
     for (auto& it : A) {
-        //double percent = ((100 * it.second) / (double)(wcount));
-        double percent = ((double)it.second/wcount*100);
-        fout << it.first << ";" << it.second << ";" << percent << "%" << "\n";
-    }
+    //double percent = ((100 * it.second) / (double)(wcount));
+    double percent = ((double)it.second / wcount * 100);
+    fout << std::fixed << std::setprecision(2); // Set precision to 2 decimal places
+    fout << it.first << ";" << it.second << ";" << percent << "%" << "\n";
+}
 
 
     fin.close();
